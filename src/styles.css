@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 12px;
+}
+
+button {
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  background: #397aaa;
+  color: white;
+}
+
+button:active {
+  opacity: 0.6;
+}
+
+textarea {
+  width: 100%;
+}
